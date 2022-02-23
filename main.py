@@ -21,3 +21,4 @@ for email, stocks in userPortfolio.items():
     message = portfolioReport(userPortfolio)
     sendEmail(email, message)
 
+#testComment
