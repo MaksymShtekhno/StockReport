@@ -1,7 +1,7 @@
 import yfinance as yf, random
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-
+#testComment
 def portfolioReport(portfolio):
 
     sender_email = "maxonchik.development@gmail.com"
