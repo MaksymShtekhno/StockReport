@@ -8,7 +8,7 @@ def sendEmail (receiver_email, message):
 
     # Developer Account
     sender_email = "maxonchik.development@gmail.com"
-    password = 'wasPif-qundyg-3tojsy'
+    password = '**************'
 
     # Create a secure SSL context
     context = ssl.create_default_context()
