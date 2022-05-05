@@ -7,7 +7,7 @@ from sendEmail import *
 userStocks = {"maksim.shtekhno@gmail.com": ['XDWT.DE', 'AAPL', 'MSFT', 'NVDA']}
 
 userPortfolio = {"maksim.shtekhno@gmail.com":
-                     {"XDWT.DE": 21.564}}
+                     {"XDWT.DE": 20}}
 
 
 for email, stocks in userStocks.items(): # Send an E-mail for every user with the information about his stocks
